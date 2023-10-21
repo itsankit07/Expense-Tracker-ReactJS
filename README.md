@@ -13,7 +13,7 @@ Expense Tracker is a web application built using React.js and styled with Tailwi
 - **State Management:** Utilized React Powerfull State Variables.
 - **Data Storage:** Local storage to persist user data.
 
-**Project Demo:** - 
+**Project Demo:** - https://expense-tracker-react-js-three.vercel.app/
 
 **Skills Demonstrated:**
 - React.js and component-based architecture.
